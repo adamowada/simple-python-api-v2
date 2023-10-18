@@ -3,7 +3,7 @@ Adam Owada
 
 ## Description
 
-A proof of concept Python server intended for demonstration purposes for Python 401 - Module 2. This would be great
+A proof of concept Python API intended for demonstration purposes for Python 401 - Module 2. This would be great
 starter code for students to modularize for their lab (maybe lab 06?). 
 
 ## Technologies Used
