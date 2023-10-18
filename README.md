@@ -25,6 +25,7 @@ starter code for students to modularize for their lab (maybe lab 06?).
 ## Next Steps
 
 - Modularize
+- Write tests with `pytest` and `requests` libraries
 - Create more tables
 - Create more endpoints
 - Full CRUD capabilities
